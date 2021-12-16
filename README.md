@@ -15,7 +15,10 @@ https://challengedata.ens.fr/participants/challenges/43/
 - The notebook `f1_loss_Mewo_BARBOSA_PERRIER` is our first notebook that gives the best score
 - The notebook `thresholds_Mewo_BARBOSA_PERRIER`is a second notebook that is our second most finished solution
 
-# Use
-- Before launching the notebooks, make sure you have the required csv files from the challenge website.
-- You need to modify the PATH in the first notebook
-- You can now launch the notebooks and submit the created csv files on the challenge platform.
+# Usage
+## Requirements 
+- `train_X.csv`, `train_y.csv` and `test_X.csv` are needed to execute properly. You cand find them on the challenge website
+- Paths need to be changed in the notebooks.
+
+## Launch
+You can now launch one of the notebooks and submit the created csv file on the challenge platform.
