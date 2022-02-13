@@ -1,5 +1,6 @@
 # MEWO_BARBOSA_PERRIER
 Authors : Rémi BARBOSA & Alban PERRIER
+
 This project aim to produce a program that automatically classify data from a musical catalogue.
 
 ## Problematic
@@ -22,3 +23,6 @@ https://challengedata.ens.fr/participants/challenges/43/
 
 ## Launch
 You can now launch one of the notebooks and submit the created csv file on the challenge platform.
+
+## Rank
+Rank 15 - 31/01/2022
